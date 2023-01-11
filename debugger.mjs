@@ -4,5 +4,4 @@ function sayHello(name){
 }
 
 const name="irfan lutfi";
-debugger;
 console.info(sayHello(name));
